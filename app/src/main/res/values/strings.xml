@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contador de Votos</string>
+    <string name="btn_votar_juan">Votos para Juan</string>
+    <string name="btn_votar_ana">Votos para Ana</string>
+    <string name="titulo_conteo">Conteo de Votos</string>
+    <string name="formato_votos">Votos: %1$d</string>
+    <string name="total_votos">Total de votos: %1$d</string>
+    <string name="nombre_juan">Juan</string>
+    <string name="nombre_ana">Ana</string>
+</resources>
